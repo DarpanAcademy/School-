@@ -1,0 +1,7 @@
+{
+  "name": "શાળા મિત્ર (Shala Mitra)",
+  "description": "A comprehensive school management application for parents and administrators to track attendance, homework, results, and circulars.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
